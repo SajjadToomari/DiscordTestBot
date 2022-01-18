@@ -1,4 +1,7 @@
-﻿using Discord;
+﻿//https://discordnet.dev/guides/getting_started/first-bot.html
+//https://discordnet.dev/guides/getting_started/samples/first-bot/structure.cs
+
+using Discord;
 using Discord.WebSocket;
 
 Console.WriteLine("Hello, World!");
